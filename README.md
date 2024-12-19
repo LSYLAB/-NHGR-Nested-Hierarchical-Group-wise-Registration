@@ -25,4 +25,4 @@ Step4: Subgrouping based on persistent homology. (distribution_final.ipynb)
 Step5: Group-wise registration is performed from local subgroups to global population. (Train_WAT1-6_mix.py)
 
 ### **Note:**
-When the article is published, we will further refine the ReadMe and code.Thanks for understanding!
+When this work is published, we will further refine the ReadMe and code.Thanks for understanding!
